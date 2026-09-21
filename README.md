@@ -18,7 +18,7 @@ Make sure a C++ compiler (like GCC / g++) is installed on your machine.
 Clone the repository:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/Soumychandrakar/Guessinggame
 ```
 
 Go into the project folder:
